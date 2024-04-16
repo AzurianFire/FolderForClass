@@ -1,0 +1,18 @@
+[for="email"]
+{
+    font-weight: bolder;
+}
+
+.text-center {
+    text-align: center;
+}
+body {
+    color: darkblue;
+}
+.text-blue{
+    color: blue;
+}
+
+#submitButton{
+    background:red;
+}
