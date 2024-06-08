@@ -1,0 +1,39 @@
+body{
+    background-color: lightblue;
+    color: darkblue
+}
+
+span{
+    color: red;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.text-green {
+    color: green;
+}
+
+#brightText {
+    color: orangered;
+}
+
+[type="email"]{
+    background-color: plum;
+}
+
+h1,h2,h3 {
+    color: springgreen;
+}
+
+h1 + p {
+    border: 1px solid black;
+}
+
+h2 + p:hover {
+    border: 1px solid black;
+}
+
+span {
+    display: inline;
+}

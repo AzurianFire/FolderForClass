@@ -1,0 +1,32 @@
+.box {
+    height: 10rem;
+    width: 10rem;
+}
+
+.light-blue {
+    background-color: #6bb7ed;
+}
+
+.light-green {
+    position:absolute;
+    background-color: #5faf5f;
+    z-index:3;
+}
+
+.light-pink {
+    position:absolute;
+    background-color: #ff9eb6;
+    z-index:2;
+}
+
+.light-yellow {
+    background-color: #ecec9c;
+    z-index: 4;
+    position: absolute;
+}
+
+.border-dark-red {
+    border: 5px solid #8b0000;
+    /* Needed so it alaigns with other boxes */
+    box-sizing: border-box;
+}
